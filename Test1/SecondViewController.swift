@@ -5,6 +5,7 @@
 //  Created by Zdrenko Zigich on 07.02.2022.
 //
 
+
 import Foundation
 import UIKit
 
@@ -16,6 +17,5 @@ final class SecondViewController: UIViewController {
         subview.backgroundColor = .systemRed
         subview.frame = view.bounds
         view.addSubview(subview)
-        
     }
 }
